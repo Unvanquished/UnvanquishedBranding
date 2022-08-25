@@ -5,11 +5,7 @@ Icons, logos, banners and other materials for the [Unvanquished game](https://un
 
 ## Icons
 
-![unvanquished icon](icon/unvanquished.png)
-
-![updater icon](icon/updater.png)
-
-![unvanquished icon on grey starry sky](icon/icon-on-grey-sky.png)
+![unvanquished icon](icon/unvanquished.png) ![updater icon](icon/updater.png)
 
 ## Logos
 
@@ -23,12 +19,19 @@ Icons, logos, banners and other materials for the [Unvanquished game](https://un
 
 ![black development logo](logo/unvdev-black.png) ![white development logo](logo/unvdev-white.png)
 
+![bimi logo](logo/bimi.svg)
 
 ## Titles
 
 ![blue and black Unvanquished title](title/unvanquished-blue-and-black.png)
 
 ![white Unvanquished title](title/unvanquished-white.png)
+
+
+## Faces
+
+![unvanquished icon on grey starry sky](icon/icon-on-grey-sky.png)
+
 
 ## Covers
 
